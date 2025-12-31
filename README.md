@@ -1,16 +1,19 @@
-# Taxonomy_and_Evolutionary_Biology
 # Taxonomy and Evolutionary Biology Labs
 
 This repository contains a comprehensive collection of 13 interactive Python-based laboratories designed for students and researchers. These labs bridge the gap between traditional morphological taxonomy and modern evolutionary genomics using interactive simulations and data visualization.
+### Authors
+- **Dr. Alok Patel** - Lead Developer, Pattern Hunter Philosophy
+- **Ms. Susama Kar** - Lecturer in Zoology
+
+**Affiliation:** Department of Zoology, Kuchinda College, Kuchinda, Odisha
+
+### Description
+
+This comprehensive interactive module is a companion resource for ongoing BSc and MSc Zoology textbook development. It provides an engaging, hands-on approach
 
 ## 🧪 Interactive Laboratory Suite
 
 Each notebook is designed to run in **Google Colab**. Click the badges below to launch the interactive environment for each module.
-
-### Unit 0: Introduction
-| Lab | Notebook Title | Content Overview | Launch |
-| :--- | :--- | :--- | :--- |
-| 0.0 | **Intro to Bio-Coding** | Introduction to Python for Biologists, data structures, and plotting. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_0_Intro_to_Python.ipynb) |
 
 ### Unit 1: Taxonomy & Biosystematics
 | Lab | Notebook Title | Content Overview | Launch |
@@ -19,26 +22,26 @@ Each notebook is designed to run in **Google Colab**. Click the badges below to 
 | 1.2 | **ICZN Nomenclature Simulator** | International Code of Zoological Nomenclature rules, priority, and types. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_1_2_ICZN_Nomenclature.ipynb) |
 | 1.3 | **Modern Taxonomy Toolkit** | DNA Barcoding (COI), Karyotypes, and Numerical Taxonomy (UPGMA). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_1_3_Modern_Taxonomy.ipynb) |
 
-### Unit 2: Evolution & Extinction
+### Unit 2: Theories, Evidences of Evolution and Extinction 
 | Lab | Notebook Title | Content Overview | Launch |
 | :--- | :--- | :--- | :--- |
-| 2.1 | **Natural Selection Sim** | Adaptive radiation, fitness landscapes, and selection pressures. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_2_1_Natural_Selection.ipynb) |
-| 2.2 | **Fossil Record & Extinction** | Stratigraphy, mass extinction events, and Lazarus taxa. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_2_2_Extinction_Dynamics.ipynb) |
-| 2.3 | **Phylogenetic Reconstruction** | Cladistics, Parsimony, and building Phylogenetic Trees. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_2_3_Phylogenetics.ipynb) |
+| 2.1 | **Fossil Record & Extinction**  | What does the fossil record reveal about evolution? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_2_1_Fossil_Record.ipynb) |
+| 2.2 |**Variation and Heritability**| How much variation is heritable?** Without heritable variation, no evolution! | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_2_2_Variation_Heritability.ipynb) |
+| 2.3 | **Extinction Events** |What causes mass extinctions? And are we in one now? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_2_3_Extention_Events.ipynb) |
 
 ### Unit 3: Population Genetics
 | Lab | Notebook Title | Content Overview | Launch |
 | :--- | :--- | :--- | :--- |
 | 3.1 | **Hardy-Weinberg Equilibrium** | Allele frequency modeling and Chi-square testing. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_1_Hardy_Weinberg.ipynb) |
-| 3.2 | **Genetic Drift & Bottlenecks** | Small population effects, Founder effect, and fixation. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_2_Genetic_Drift.ipynb) |
-| 3.3 | **Gene Flow & Migration** | Island-continent models and population homogenization. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_3_Gene_Flow.ipynb) |
-| 3.4 | **Mutation & Selection** | Balanced polymorphism and mutation-selection balance. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_4_Mutation_Selection.ipynb) |
+| 3.2 | **Natural Selection** | How does natural selection change allele frequencies? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_2_Natural_Selection.ipynb) |
+| 3.3 | **Genetic Drift** | Can evolution happen by chance alone? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_3_Genetic_Drift.ipynb) |
+| 3.4 | **Migration and Mutation** | How do migration and mutation compare to selection and drift? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_4_Migration_Mutation.ipynb) |
 
 ### Unit 4: Speciation & Human Evolution
 | Lab | Notebook Title | Content Overview | Launch |
 | :--- | :--- | :--- | : :--- |
 | 4.1 | **Speciation Mechanisms** | Allopatric vs. Sympatric models and reproductive barriers. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_1_Speciation.ipynb) |
-| 4.2 | **Molecular Clocks** | Divergence time estimation and DNA substitution rates. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_2_Molecular_Clocks.ipynb) |
+| 4.2 | **Phylogenetic Trees** | How can we reconstruct evolutionary history? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_2_Phylogenetic_Trees.ipynb) |
 | 4.3 | **Human Evolution Trends** | Hominid craniometry, bipedalism, and migration patterns. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_3_Human_Evolution.ipynb) |
 
 ## 🛠️ Usage Instructions
