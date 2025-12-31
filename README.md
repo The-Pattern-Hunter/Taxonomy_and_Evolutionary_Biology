@@ -39,7 +39,7 @@ Each notebook is designed to run in **Google Colab**. Click the badges below to 
 
 ### Unit 4: Speciation & Human Evolution
 | **Lab** | **Notebook Title** | **Content Overview** | **Launch **|
-| :--- | :--- | :--- | : :--- |
+| :--- | :--- | :--- | :--- |
 | 4.1 | **Speciation Mechanisms** | Allopatric vs. Sympatric models and reproductive barriers. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_1_Speciation.ipynb) |
 | 4.2 | **Phylogenetic Trees** | How can we reconstruct evolutionary history? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_2_Phylogenetic_Trees.ipynb) |
 | 4.3 | **Human Evolution Trends** | Hominid craniometry, bipedalism, and migration patterns. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_3_Human_Evolution.ipynb) |
