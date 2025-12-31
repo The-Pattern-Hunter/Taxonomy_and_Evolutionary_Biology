@@ -38,7 +38,7 @@ Each notebook is designed to run in **Google Colab**. Click the badges below to 
 | 3.4 | **Migration and Mutation** | How do migration and mutation compare to selection and drift? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_3_4_Migration_Mutation.ipynb) |
 
 ### Unit 4: Speciation & Human Evolution
-| Lab | Notebook Title | Content Overview | Launch |
+| **Lab** | **Notebook Title** | **Content Overview** | **Launch **|
 | :--- | :--- | :--- | : :--- |
 | 4.1 | **Speciation Mechanisms** | Allopatric vs. Sympatric models and reproductive barriers. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_1_Speciation.ipynb) |
 | 4.2 | **Phylogenetic Trees** | How can we reconstruct evolutionary history? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/notebooks/Lab_4_2_Phylogenetic_Trees.ipynb) |
