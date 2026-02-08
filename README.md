@@ -1,7 +1,7 @@
 # Taxonomy and Evolutionary Biology Labs
 
 This repository contains a comprehensive collection of 13 interactive Python-based laboratories designed for students and researchers. These labs bridge the gap between traditional morphological taxonomy and modern evolutionary genomics using interactive simulations and data visualization.
-Authors: Dr. Alok Patel & Ms. Susama Kar Institution: Department of Zoology, Kuchinda College
+| **Authors: Dr. Alok Patel & Ms. Susama Kar** | Institution: Department of Zoology, Kuchinda College
 
 ### Description
 
