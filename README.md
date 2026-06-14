@@ -54,4 +54,13 @@ Each notebook is designed to run in **Google Colab**. Click the badges below to 
 * **Integrative Taxonomy:** Combines morphological and molecular data analysis.
 * **Visual Learning:** Dynamic charts and real-time evolutionary modeling.
 
+
 ---
+
+## 📖 Companion Textbook
+
+| Resource | Description | Access |
+| :--- | :--- | :--- |
+| **Pattern and Descent: Taxonomy and Evolutionary Biology** | The complete textbook (288 pages, 11 chapters, 72 figures) that these interactive labs accompany. Covers the full NEP 2020 Core I, Paper XV syllabus. | [![Read the Book](https://img.shields.io/badge/📖_Read-Pattern_and_Descent-8B4513?style=for-the-badge)](https://github.com/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/Pattern_and_Descent_Book.pdf) |
+
+**Authors:** Dr Alok Patel & Ms Susama Kar · Department of Zoology, Kuchinda College
