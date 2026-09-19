@@ -1,5 +1,7 @@
 # Taxonomy and Evolutionary Biology Labs
 
+### 📖 [![Read Online](https://img.shields.io/badge/📖_Read_the_Companion_Textbook-Pattern_and_Descent-1b5e4b?style=for-the-badge)](https://the-pattern-hunter.github.io/Taxonomy_and_Evolutionary_Biology/)
+
 This repository contains a comprehensive collection of 13 interactive Python-based laboratories designed for students and researchers. These labs bridge the gap between traditional morphological taxonomy and modern evolutionary genomics using interactive simulations and data visualization.
 
 | **Authors: Dr. Alok Patel**
@@ -61,7 +63,6 @@ Each notebook is designed to run in **Google Colab**. Click the badges below to 
 
 | Resource | Description | Access |
 | :--- | :--- | :--- |
-| **Pattern and Descent: Taxonomy and Evolutionary Biology** | The complete textbook (304 pages, 11 chapters, 72 figures) that these interactive labs accompany. Covers the full NEP 2020 Core I, Paper XV syllabus. | [![Read the Book](https://img.shields.io/badge/📖_Read-Pattern_and_Descent-8B4513?style=for-the-badge)](https://github.com/The-Pattern-Hunter/Taxonomy_and_Evolutionary_Biology/blob/main/Pattern_and_Descent_Taxonomy_and_Evolution.pdf) |
-| **Read Online** | Browse the book in-browser (cover, about, and an embedded reader) via GitHub Pages. | [![Read Online](https://img.shields.io/badge/🌐_Read-Online-1b5e4b?style=for-the-badge)](https://the-pattern-hunter.github.io/Taxonomy_and_Evolutionary_Biology/) |
+| **Pattern and Descent: Taxonomy and Evolutionary Biology** | The complete textbook (304 pages, 11 chapters, 72 figures) that these interactive labs accompany. Covers the full NEP 2020 Core I, Paper XV syllabus. Read online only. | [![Read Online](https://img.shields.io/badge/🌐_Read-Online-1b5e4b?style=for-the-badge)](https://the-pattern-hunter.github.io/Taxonomy_and_Evolutionary_Biology/) |
 
 **Authors:** Dr Alok Patel· Department of Zoology, Kuchinda College
