@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Pattern and Descent — Taxonomy and Evolutionary Biology</title>
+<style>
+  :root{
+    --navy:#12233a;
+    --cream:#f5f3ec;
+    --green:#14342b;
+    --green2:#1b5e4b;
+    --gold:#c9962e;
+    --gold-dark:#9a6512;
+    --maroon:#7a1f2b;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; font-family:Georgia,'Times New Roman',serif;
+    background:var(--navy); color:var(--cream);
+  }
+  header{
+    max-width:900px; margin:0 auto; padding:56px 24px 24px 24px; text-align:center;
+  }
+  .eyebrow{
+    color:var(--gold); letter-spacing:0.14em; font-size:14px; font-weight:bold;
+    text-transform:uppercase;
+  }
+  h1{
+    font-size:44px; margin:14px 0 4px 0; color:var(--cream);
+  }
+  h1 span{ color:var(--gold); font-style:italic; font-size:0.5em; letter-spacing:0.3em; display:block; margin:6px 0;}
+  .subtitle{ font-size:20px; color:#cfd6de; margin-bottom:6px; }
+  .author{ font-size:16px; color:#9fb0c0; margin-top:10px; }
+
+  .actions{
+    display:flex; gap:16px; justify-content:center; margin:32px 0 8px 0; flex-wrap:wrap;
+  }
+  .btn{
+    display:inline-block; padding:14px 28px; border-radius:4px; font-size:16px;
+    text-decoration:none; font-weight:bold; letter-spacing:0.02em;
+  }
+  .btn-primary{ background:var(--gold); color:var(--navy); }
+  .btn-secondary{ background:transparent; color:var(--cream); border:1.5px solid var(--gold); }
+
+  main{ background:var(--cream); color:#111; }
+  .about{
+    max-width:800px; margin:0 auto; padding:56px 24px;
+  }
+  .about h2{ color:var(--gold-dark); font-size:15px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:14px;}
+  .about p{ font-size:18px; line-height:1.6; margin-bottom:16px; text-align:justify; }
+
+  .viewer{
+    max-width:900px; margin:0 auto 64px auto; padding:0 24px;
+  }
+  .viewer iframe{
+    width:100%; height:80vh; border:1px solid #ccc; border-radius:4px;
+    background:#fff;
+  }
+  .viewer .fallback{ text-align:center; padding:24px; font-size:15px; color:#555; }
+
+  footer{
+    text-align:center; padding:32px 24px; font-size:13px; color:#8a97a5;
+    background:var(--navy);
+  }
+  footer a{ color:var(--gold); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">B.Sc. Zoology &middot; NEP 2020 &middot; Semester VI</div>
+  <h1>Pattern <span>and</span> Descent</h1>
+  <div class="subtitle">Taxonomy and Evolutionary Biology</div>
+  <div class="author">Dr Alok Patel, PhD &middot; Head, Department of Zoology, Kuchinda College</div>
+
+  <div class="actions">
+    <a class="btn btn-primary" href="Pattern_and_Descent_Taxonomy_and_Evolution.pdf" download>Download PDF</a>
+    <a class="btn btn-secondary" href="#read">Read Online</a>
+  </div>
+</header>
+
+<main>
+  <div class="about">
+    <h2>About This Book</h2>
+    <p>Every living thing carries two kinds of evidence: the pattern of its body, and the record of how that pattern came to be. Pattern and Descent is an eleven-chapter textbook for the NEP-2020 sixth-semester BSc Zoology syllabus, moving from the logic of classification through the origin and fossil record of life to the evolutionary forces of selection, drift, migration, and mutation that shape descent.</p>
+    <p>The chapters work through real material: identifying a Simlipal ground beetle with a dichotomous key, tracing catfish populations across the Hirakud reservoir with the Hardy&ndash;Weinberg equation and a chi-square test, reading Hamilton's rule in the kin selection of eusocial insects, and following the Irrawaddy dolphin of Chilika lagoon and the human lineage itself through phylogenetic reconstruction. Seventy-two original diagrams, worked examples, common misconceptions, and a nine-practical laboratory companion accompany the text throughout.</p>
+  </div>
+
+  <div class="viewer" id="read">
+    <iframe src="Pattern_and_Descent_Taxonomy_and_Evolution.pdf" title="Pattern and Descent — full book PDF">
+      <div class="fallback">Your browser can't display the PDF inline. <a href="Pattern_and_Descent_Taxonomy_and_Evolution.pdf">Download it here</a> instead.</div>
+    </iframe>
+  </div>
+</main>
+
+<footer>
+  Pattern and Descent &middot; Taxonomy and Evolutionary Biology &middot; Part of the <a href="#">Pattern Hunters</a> series
+</footer>
+
+</body>
+</html>
